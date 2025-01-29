@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mythixz
+I write code.
 
-<!--
-**Mythixz/Mythixz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ About Me
+- 🔭 Working on Vue.js and Next.js projects.
+- 🌱 Learning TypeScript and TailwindCSS.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mythixz&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Repositories
+[![Vue Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Mythixz&repo=vue-weather-check)](https://github.com/Mythixz/vue-weather-check)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythixz&layout=compact&theme=radical)
+
+## 🎮 Discord Status
+![Discord](https://lanyard.cnrad.dev/api/YourDiscordID)
