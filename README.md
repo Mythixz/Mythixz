@@ -15,6 +15,3 @@ I write code.
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythixz&layout=compact&theme=radical)
-
-## 🎮 Discord Status
-![Discord](https://lanyard.cnrad.dev/api/YourDiscordID)
