@@ -1,10 +1,6 @@
 # Mythixz
 I write code.
 
-## 🖥️ About Me
-- 🔭 Working on Vue.js and Next.js projects.
-- 🌱 Learning TypeScript and TailwindCSS.
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mythixz&show_icons=true&theme=radical)
 
