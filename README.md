@@ -9,5 +9,6 @@ I write code.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mythixz&icon=0&color=0)](https://visitcount.itsvg.in)
+![My Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
