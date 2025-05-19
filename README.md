@@ -1,13 +1,11 @@
-# Mythixz
-I write code. 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
-
 # 👋 Hi there, I'm Wongsakorn (Mythixz)
 
 🚀 Computer Science Student @KMUTT  
 💻 Full Stack Developer | UX/UI Designer | DevOps Learner  
-📌 I build real-world projects that blend frontend polish, backend logic, and system design.
+📌 I write code. 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
+
 
 ---
 
@@ -45,7 +43,7 @@ I write code.
 - Built full frontend with Next.js + TailwindCSS from Figma design  
 - Integrated CMS, booking logic, blog modals, and responsive layouts  
 - Deployed with Vercel, using CI/CD, and ongoing performance maintenance  
-🔗 [olaways.com](https://olaways.com)
+🔗 (currently under ongoing maintenance and development)
 
 ---
 
@@ -104,6 +102,5 @@ ASP.NET Core MVC + Razor + Entity Framework
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mythixz&icon=0&color=0)](https://visitcount.itsvg.in)
-![My Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
