@@ -34,7 +34,7 @@
 
 **🔹 SolidiThai Co., Ltd. – WordPress Developer**  
 *Mar 2024*  
-- Designed official website for a B2B FinTech & Security firm  
+- Designed and developed a 1-page official website based on client brief for a B2B FinTech & Security company
 - Built using Elementor + CSS; ensured accessibility and mobile responsiveness  
 🔗 [Visit Site](https://www.solidithai.co.th)
 
