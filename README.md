@@ -20,11 +20,11 @@
 
 ## 📌 Experience Timeline
 
-### 🏢 SCG (Siam Cement Group) – Internship  
-**Internship:** Feb 2025 – Jul 2025  
-**Division:** CIO / Digital Innovation (Bangsue HQ)  
+### 🏢 SCG (Siam Cement Group) – Internship 
+**Internship:** Feb 2025 – Dec 2025  
+**Division:** CIO/Ignitor / CAFI (Bangsue HQ)  
 **Role:** Copmputer engineer
-- Participated in SCG internal hackathon and solution pitch
+- Participated in SCG @Bangsue
 
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 
