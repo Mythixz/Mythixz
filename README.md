@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Wongsakorn (Mythixz)
 
 🚀 Computer Science Student @KMUTT  
-💻 Full Stack Developer | UX/UI Designer | DevOps Learner  
+💻 Full Stack Developer | Automation & UX Engineer | AI & DevOps
 📌 I write code. 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
