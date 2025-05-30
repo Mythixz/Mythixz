@@ -4,7 +4,10 @@
 🚀 Computer Science @ KMUTT  
 💻 Full Stack Developer | Automation & UX Engineer  
 🤖 Exploring AI (LLMs) & DevOps pipelines  
-📌 I write code. I design systems. I solve problems.
+📌 I write code. I design systems. I solve problems.  
+
+🎯 Currently aspiring to join the Microsoft Learn Student Ambassador (MLSA) program.  
+🏆 Selected in Top 10 participants in Microsoft Student Ambassador (MSA) and Google Developer Groups on Campus (GDGoC) showcases.  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
 
@@ -19,6 +22,15 @@
 - Currently interning at SCG and building tourism & logistics platforms for real businesses
 
 ---
+
+🏆 Highlights & Recognitions
+
+🥇 Top 10 Finalist – Google Developer Groups on Campus (GDGoC) x AMSA
+Represented KMUTT in collaboration with KMITL and Chulalongkorn University (CU)
+Selected among 255 teams nationwide in a tech-for-healthcare innovation challenge
+
+---
+
 
 ## 📌 Experience Timeline
 
