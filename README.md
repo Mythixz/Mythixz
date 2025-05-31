@@ -7,7 +7,7 @@
 📌 I write code. I design systems. I solve problems.  
 
 🎯 Currently aspiring to join the Microsoft Learn Student Ambassador (MLSA) program.  
-🏆 Selected in Top 10 participants in Microsoft Student Ambassador (MSA) and Google Developer Groups on Campus (GDGoC) showcases.  
+🏆 Selected in Top 10 participants in Google Developer Groups on Campus (GDGoC) showcases.  
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
 
