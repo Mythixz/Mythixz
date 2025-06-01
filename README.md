@@ -7,7 +7,10 @@
 📌 I write code. I design systems. I solve problems.  
 
 🎯 Currently aspiring to join the Microsoft Learn Student Ambassador (MLSA) program.  
-🏆 Selected in Top 10 participants in Google Developer Groups on Campus (GDGoC) showcases.  
+🥇 Winner – 1st Place, Google Developer Groups on Campus (GDGoC) x AMSA  
+Represented KMUTT in collaboration with KMITL and Chulalongkorn University  
+🏆 Selected from 255 teams nationwide in a healthcare innovation challenge focused on tech-for-good solutions  
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/661916633958318090)](https://discord.com/users/661916633958318090)
 
@@ -25,9 +28,9 @@
 
 🏆 Highlights & Recognitions
 
-🥇 Top 10 Finalist – Google Developer Groups on Campus (GDGoC) x AMSA
-Represented KMUTT in collaboration with KMITL and Chulalongkorn University (CU)
-Selected among 255 teams nationwide in a tech-for-healthcare innovation challenge
+🥇 Winner – 1st Place, Google Developer Groups on Campus (GDGoC) x AMSA
+Represented KMUTT in collaboration with KMITL and Chulalongkorn University
+🏆 Selected from 255 teams nationwide in a healthcare innovation challenge focused on tech-for-good solutions
 
 ---
 
