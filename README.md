@@ -63,7 +63,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 - Integrated dynamic CMS, blog modals, booking logic, and fully responsive layouts
 - Built CI/CD pipelines and deployed a test/staging version on Vercel (production release upcoming)
 - Responsible for backend system design (currently in progress), with API-first, scalable structure
-- Sole developer managing both client-side and server-side implementation, performance tuning, and deployment
+- Sole developer managing both client-side and server-side implementation, performance tuning, and deployment  
 🔗 Live staging: under active development and testing
 
 ---
