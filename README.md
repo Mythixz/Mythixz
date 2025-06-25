@@ -30,7 +30,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 🥇 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
 From 255 teams nationwide, our solution stood out for its real-world impact.
-Represented KMUTT alongside KMITL and Chulalongkorn University.
+Represented KMUTT alongside KMITL and Chulalongkorn University.  
 💼 ฿400,000+ freelance revenue from web development projects (2024–2025)  
 🚀 Launched multiple client platforms using Next.js, Vue, Firebase, and TailwindCSS  
 🧩 Delivered production-ready systems: e-commerce, tourism platforms, and internal CMS tools  
