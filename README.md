@@ -50,17 +50,21 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ### 💼 Freelance & Startup Projects
 
 **🔹 SolidiThai Co., Ltd. – WordPress Developer**  
-*Mar 2024*  
+*Mar 2025*  
 - Designed and developed a 1-page official website based on client brief for a B2B FinTech & Security company
 - Built using Elementor + CSS; ensured accessibility and mobile responsiveness  
 🔗 [Visit Site](https://www.solidithai.co.th)
 
-**🔹 Olaway Tourism Platform – Full Stack Dev**  
-*Feb 2025 – Present*  
-- Built full frontend with Next.js + TailwindCSS from Figma design  
-- Integrated CMS, booking logic, blog modals, and responsive layouts  
-- Deployed with Vercel, using CI/CD, and ongoing performance maintenance  
-🔗 (currently under ongoing maintenance and development)
+**🔹 Tourism Platform – Solo Full Stack Developer
+*Feb 2025 – Present* 
+💼 Project Value: ~฿250,000
+Designed and implemented full system architecture from scratch for a tourism booking platform
+Developed complete frontend using Next.js + TailwindCSS, based on Figma UI/UX designs
+Integrated dynamic CMS, blog modals, booking logic, and fully responsive layouts
+Built CI/CD pipelines and deployed a test/staging version on Vercel (production release upcoming)
+Responsible for backend system design (currently in progress), with API-first, scalable structure
+Sole developer managing both client-side and server-side implementation, performance tuning, and deployment
+🔗 Live staging: under active development and testing
 
 ---
 
