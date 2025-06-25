@@ -56,7 +56,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 🔗 [Visit Site](https://www.solidithai.co.th)
 
 **🔹 Tourism Platform – Solo Full Stack Developer**  
-*Feb 2025 – Present* 
+*Feb 2025 – Present*  
 💼 Project Value: ~฿250,000
 - Designed and implemented full system architecture from scratch for a tourism booking platform
 - Developed complete frontend using Next.js + TailwindCSS, based on Figma UI/UX designs
