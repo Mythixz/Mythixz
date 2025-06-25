@@ -58,12 +58,12 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 **🔹 Tourism Platform – Solo Full Stack Developer**
 *Feb 2025 – Present* 
 💼 Project Value: ~฿250,000
-Designed and implemented full system architecture from scratch for a tourism booking platform
-Developed complete frontend using Next.js + TailwindCSS, based on Figma UI/UX designs
-Integrated dynamic CMS, blog modals, booking logic, and fully responsive layouts
-Built CI/CD pipelines and deployed a test/staging version on Vercel (production release upcoming)
-Responsible for backend system design (currently in progress), with API-first, scalable structure
-Sole developer managing both client-side and server-side implementation, performance tuning, and deployment
+- Designed and implemented full system architecture from scratch for a tourism booking platform
+- Developed complete frontend using Next.js + TailwindCSS, based on Figma UI/UX designs
+- Integrated dynamic CMS, blog modals, booking logic, and fully responsive layouts
+- Built CI/CD pipelines and deployed a test/staging version on Vercel (production release upcoming)
+- Responsible for backend system design (currently in progress), with API-first, scalable structure
+- Sole developer managing both client-side and server-side implementation, performance tuning, and deployment
 🔗 Live staging: under active development and testing
 
 ---
