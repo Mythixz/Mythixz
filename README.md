@@ -32,6 +32,11 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 From 255 teams nationwide, our solution stood out for its real-world impact.
 Represented KMUTT alongside KMITL and Chulalongkorn University.
 
+💰 Generated over ฿400,000 in freelance revenue from web development projects during 2024–2025  
+🚀 Successfully launched multiple client projects using Next.js, Vue, Firebase, and TailwindCSS  
+🧩 Built production-ready systems ranging from e-commerce, tourism platforms, to internal CMS tools  
+🧑‍💻 Recognized by clients for fast delivery, scalable architecture, and clean, maintainable code  
+
 ---
 
 
