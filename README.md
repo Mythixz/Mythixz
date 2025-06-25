@@ -55,7 +55,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 - Built using Elementor + CSS; ensured accessibility and mobile responsiveness  
 🔗 [Visit Site](https://www.solidithai.co.th)
 
-**🔹 Tourism Platform – Solo Full Stack Developer**
+**🔹 Tourism Platform – Solo Full Stack Developer**  
 *Feb 2025 – Present* 
 💼 Project Value: ~฿250,000
 - Designed and implemented full system architecture from scratch for a tourism booking platform
