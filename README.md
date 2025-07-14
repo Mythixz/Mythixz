@@ -36,7 +36,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ---
 
 
-🏆 Highlights & Recognitions
+## 🏆 Highlights & Recognitions
 
 🥇 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
 From 255 teams nationwide, our solution stood out for its real-world impact.
