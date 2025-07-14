@@ -63,8 +63,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ### 💼 Freelance & Startup Projects
 
-** 🛒 E-commerce C2C Marketplace Platform** – Full Stack Developer  
-*June 2025 – Present* 
+** 🛒 E-commerce C2C Marketplace Platform – Full Stack Developer**  
+*June 2025 – Present*  
 Project Value: ~฿50,000  
 - Designed and developed a robust C2C e-commerce marketplace using **React** and **Firebase**, featuring real-time chat, an advanced admin dashboard, and user-driven reporting/moderation.  
 - Led full-stack development, database architecture, and implemented **CI/CD pipelines** for scalable and secure operations.  
