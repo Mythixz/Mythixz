@@ -63,32 +63,36 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ### 💼 Freelance & Startup Projects
 
-**🛒 E-commerce C2C Marketplace Platform – Full Stack Developer**  
-*June 2025 – Present*  
-Project Value: ~฿50,000  
-- Designed and developed a robust C2C e-commerce marketplace using **React** and **Firebase**, featuring real-time chat, an advanced admin dashboard, and user-driven reporting/moderation.  
-- Led full-stack development, database architecture, and implemented **CI/CD pipelines** for scalable and secure operations.  
-- Achieved **SEO Rank #1** for branded keywords, boosting organic visibility and user acquisition.  
-- Delivered the project on time and within budget, with ongoing improvements and feature expansion.  
-
-**🔹 SolidiThai Co., Ltd. – WordPress Developer**  
-*Mar 2025*  
-- Designed and developed a 1-page official website based on client brief for a B2B FinTech & Security company
-- Built using Elementor + CSS; ensured accessibility and mobile responsiveness  
-🔗 [Visit Site](https://www.solidithai.co.th)
-
-**🔹 Tourism Platform – Solo Full Stack Developer**  
-*Feb 2025 – Present*  
-💼 Project Value: ~฿250,000
-- Designed and implemented full system architecture from scratch for a tourism booking platform
-- Developed complete frontend using Next.js + TailwindCSS, based on Figma UI/UX designs
-- Integrated dynamic CMS, blog modals, booking logic, and fully responsive layouts
-- Built CI/CD pipelines and deployed a test/staging version on Vercel (production release upcoming)
-- Responsible for backend system design (currently in progress), with API-first, scalable structure
-- Sole developer managing both client-side and server-side implementation, performance tuning, and deployment  
-🔗 Live staging: under active development and testing
+#### 🛒 E-commerce C2C Marketplace Platform — *Full Stack Developer*  
+**June 2025 – Present** | 💰 Project Value: ~฿50,000  
+- Designed and developed a robust C2C marketplace using **React** and **Firebase**  
+- Features include real-time chat, advanced admin dashboard, and user-driven reporting/moderation  
+- Led full-stack development, database architecture, and CI/CD for scalable and secure deployment  
+- Achieved **SEO Rank #1** for branded keywords, increasing organic visibility and user growth  
+- Delivered on time and within budget; currently maintaining and expanding new features
 
 ---
+
+#### 🔹 SolidiThai Co., Ltd. — *WordPress Developer*  
+**Mar 2025**  
+- Built a 1-page official website for a B2B FinTech & Security company based on provided brief  
+- Used **Elementor** and custom **CSS**, optimized for mobile responsiveness and accessibility  
+🔗 [Visit Site](https://www.solidithai.co.th)
+
+---
+
+#### 🌐 Tourism Platform — *Solo Full Stack Developer*  
+**Feb 2025 – Present** | 💰 Project Value: ~฿250,000  
+- Architected and developed a tourism booking platform from scratch  
+- Built the frontend using **Next.js** + **TailwindCSS**, fully responsive and Figma-aligned  
+- Integrated CMS, blog modals, booking logic, and real-time layout interactions  
+- Set up **CI/CD pipelines**, deployed staging on Vercel (production release in progress)  
+- Currently building the backend with a scalable, API-first approach  
+- Sole developer handling frontend, backend, deployment, and performance tuning  
+🔗 Live staging: *under active development and testing*
+
+---
+
 
 ### 🏛️ Government & Enterprise Platforms
 
