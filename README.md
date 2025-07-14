@@ -29,9 +29,9 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ## 🔄 Last Activity
   
 - Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  
-  SCBX NEXT TECH, Siam Paragon – *June 30, 2025*  
-  Explored hands-on sessions on Azure Machine Learning, GitHub Copilot, and Microsoft’s approach to responsible AI.  
-  Practiced integrating Copilot into real development workflows using VS Code.
+- Explored hands-on sessions on Azure Machine Learning, GitHub Copilot, and Microsoft’s approach to responsible AI  
+- Practiced integrating Copilot into real development workflows using VS Code  
+📍 *SCBX NEXT TECH, Siam Paragon – June 30, 2025*
 
 ---
 
@@ -54,8 +54,9 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ### 🏢 SCG (Siam Cement Group) – Internship 
 **Internship:** June 2025 – Dec 2025  
 **Division:** CIO/Ignitor / CAFI (Bangsue HQ)  
-**Role:** Copmputer engineer
-- Participated in SCG @Bangsue
+**Role:** Computer Engineer Intern  
+- Working on internal tools and automation systems under CIO/Ignitor / CAFI  
+- Participating in digital innovation projects at SCG Bangsue HQ
 
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 
