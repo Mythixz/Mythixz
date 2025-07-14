@@ -28,6 +28,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 
 ## 🔄 Last Activity
+  
 - Workshop on Azure AI, GitHub Copilot & Trustworthy AI – SCBX NEXT TECH (Jun 30, 2025)  
 
 ---
