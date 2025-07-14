@@ -28,7 +28,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
   
-- Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  
+Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  
 - Explored hands-on sessions on Azure Machine Learning, GitHub Copilot, and Microsoft’s approach to responsible AI  
 - Practiced integrating Copilot into real development workflows using VS Code  
 📍 *SCBX NEXT TECH, Siam Paragon – June 30, 2025*
