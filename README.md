@@ -30,7 +30,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 - Attended the **Google Summer of Code Info Session at Chulalongkorn University**  
 - Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  📍 *SCBX NEXT TECH, Siam Paragon – June 30, 2025*  
-- 
+
 ---
 
 
