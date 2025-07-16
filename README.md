@@ -28,7 +28,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
-Google Summer of Code - Info Session by Google developer Chulalongkorn University.  
+Attended the **Google Summer of Code Info Session at Chulalongkorn University**  
 Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  
 - Explored hands-on sessions on Azure Machine Learning, GitHub Copilot, and Microsoft’s approach to responsible AI  
 - Practiced integrating Copilot into real development workflows using VS Code  
