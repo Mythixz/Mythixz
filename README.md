@@ -6,7 +6,7 @@
 🤖 Exploring AI (LLMs) & DevOps pipelines  
 📌 I write code. I design systems. I solve problems.  
 
-🎯 Currently aspiring to join the Microsoft Learn Student Ambassador (MLSA) program.  
+🎯 Participated in Google Developer Group (GDG) events, learning and connecting with the community  
 🏆 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
 From 255 teams nationwide, our solution stood out for its real-world impact.
 Represented KMUTT alongside KMITL and Chulalongkorn University.
