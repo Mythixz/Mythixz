@@ -28,6 +28,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
+- Participated in the Kissflow Citizen Developer Day, joining sessions with SCG JWD, SCG, and VBIX to explore use cases of low-code and process automation in real businesses  
 - Attended the **Google Summer of Code Info Session at Chulalongkorn University**  
 - Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  📍 *SCBX NEXT TECH, Siam Paragon – June 30, 2025*  
 
