@@ -60,6 +60,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 - Participating in digital innovation projects at SCG Bangsue HQ
 
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
+![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/EIP25xYTP.png)
+
 
 ---
 
