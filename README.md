@@ -54,10 +54,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ### 🏢 SCG (Siam Cement Group) – Internship 
 **Internship:** June 2025 – Dec 2025  
-**Division:** CIO/Ignitor / CAFI (Bangsue HQ)  
+**Division:** CIO (Bangsue) 
 **Role:** Computer Engineer Intern  
-- Working on internal tools and automation systems under CIO/Ignitor / CAFI  
-- Participating in digital innovation projects at SCG Bangsue HQ
 
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/EIP25xYTP.png)
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
