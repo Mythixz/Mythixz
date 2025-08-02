@@ -59,8 +59,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 - Working on internal tools and automation systems under CIO/Ignitor / CAFI  
 - Participating in digital innovation projects at SCG Bangsue HQ
 
-![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 ![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/EIP25xYTP.png)
+![SCG Certificate](https://raw.githubusercontent.com/Mythixz/Mythixz/main/SCGEIP.png)
 
 
 ---
