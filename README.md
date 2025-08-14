@@ -27,7 +27,9 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ---
 
 ## 🔄 Last Activity
-  
+
+- Attended the **OpenAI x SCB 10X: From API to Impact: How OpenAI Empowers Startups**    
+- Attended the **IBM Solutions Summit 2025 – The Race To Unlock Enterprise AI**  
 - Attended the **Google I/O Extended Bangkok**  📍 *Club Siam Glowfish - Siam Patumwan | July 26, 2025*  
 - Attended the **Windsurf Bangkok Special Session with Matt Bergland **  📍 *Seven Peaks – Bangkok | July 25, 2025*  
 - Participated in the Kissflow Citizen Developer Day, joining sessions with SCG JWD, SCG, and VBIX to explore use cases of low-code and process automation in real businesses  
