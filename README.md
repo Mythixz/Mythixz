@@ -30,16 +30,18 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
+- Cloud Ace **Google Cloud Business Day**  
 - Google Cloud Lab 25 | Lab Google Cloud  
 - Typhoon Community Meetup  
-- .NET Meetup @Thailand  
+- .NET Meetup @Thailand
+- Welcome to Say hello to GPT-5 in Copilots SCBX NEXT TECH and Azure Community  
 - Attended the **OpenAI x SCB 10X: From API to Impact: How OpenAI Empowers Startups**    
 - Attended the **IBM Solutions Summit 2025 – The Race To Unlock Enterprise AI**  
 - Attended the **Google I/O Extended Bangkok** 
 - Attended the **Windsurf Bangkok Special Session with Matt Bergland 
 - Participated in the Kissflow Citizen Developer Day, joining sessions with SCG JWD, SCG, and VBIX to explore use cases of low-code and process automation in real businesses
 - GDG Chula ,KMITL ,KMUTT  | Training Jupiter Notebook and Google Colab for Generative AI Training  
-- SCGxYTP25 | Hell Day Activities  
+- SCG x Young Talent Program | Hell Day Activities  
 - Attended the **Google Summer of Code Info Session at Chulalongkorn University**  
 - Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**    
 
