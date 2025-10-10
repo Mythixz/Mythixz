@@ -30,6 +30,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
+- Google Developer Student Clubs | Chulalongkorn University 1st Meet  
 - Cloud Ace **Google Cloud Business Day**  
 - Google Cloud Lab 25 | Lab Google Cloud  
 - Typhoon Community Meetup  
