@@ -5,7 +5,7 @@
 💻 Full Stack Developer | AI Engineer
 🤖 Exploring AI (LLMs) & DevOps pipelines  
 📌 I write code. I design systems. I solve problems.  
-📌 SCGxEIP25 | Internship Program  
+📌 SCG x Excellent Internship Program
 📌 Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 
 🎯 Participated in Google Developer Group (GDG) events, learning and connecting with the community  
