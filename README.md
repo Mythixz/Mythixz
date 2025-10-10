@@ -2,9 +2,11 @@
 
 
 🚀 Computer Science @ KMUTT  
-💻 Full Stack Developer | Automation & UX Engineer  
+💻 Full Stack Developer | AI Engineer
 🤖 Exploring AI (LLMs) & DevOps pipelines  
 📌 I write code. I design systems. I solve problems.  
+📌 SCGxEIP25 | Internship Program  
+📌 Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 
 🎯 Participated in Google Developer Group (GDG) events, learning and connecting with the community  
 🏆 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
@@ -28,11 +30,16 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
+- Google Cloud Lab 25 | Lab Google Cloud  
+- Typhoon Community Meetup  
+- .NET Meetup @Thailand  
 - Attended the **OpenAI x SCB 10X: From API to Impact: How OpenAI Empowers Startups**    
 - Attended the **IBM Solutions Summit 2025 – The Race To Unlock Enterprise AI**  
 - Attended the **Google I/O Extended Bangkok**  📍 *Club Siam Glowfish - Siam Patumwan | July 26, 2025*  
 - Attended the **Windsurf Bangkok Special Session with Matt Bergland **  📍 *Seven Peaks – Bangkok | July 25, 2025*  
-- Participated in the Kissflow Citizen Developer Day, joining sessions with SCG JWD, SCG, and VBIX to explore use cases of low-code and process automation in real businesses  
+- Participated in the Kissflow Citizen Developer Day, joining sessions with SCG JWD, SCG, and VBIX to explore use cases of low-code and process automation in real businesses
+- GDG Chula ,KMITL ,KMUTT  | Training Jupiter Notebook and Google Colab for Generative AI Training  
+- SCGxYTP25 | Hell Day Activities  
 - Attended the **Google Summer of Code Info Session at Chulalongkorn University**  
 - Attended the **Workshop on Azure AI, GitHub Copilot & Trustworthy AI**  📍 *SCBX NEXT TECH, Siam Paragon | June 30, 2025*  
 
@@ -44,6 +51,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 🥇 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
 From 255 teams nationwide, our solution stood out for its real-world impact.
 Represented KMUTT alongside KMITL and Chulalongkorn University.  
+🏆 JUMP THAILAND Hackathon 2025  | Selected form 295 Team to 50  
 💼 ฿400,000+ freelance revenue from web development projects (Dec 2024 – June 2025)  
 🚀 Launched multiple client platforms using Next.js, Vue, Firebase, and TailwindCSS  
 🧩 Delivered production-ready systems: e-commerce, tourism platforms, and internal CMS tools  
