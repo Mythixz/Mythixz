@@ -31,6 +31,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 
 ## 🔄 Last Activity
 
+- KBTG Meetup: From Chaos to Clarity  
 - Google Developer Student Clubs | Chulalongkorn University 1st Meet  
 - Cloud Ace **Google Cloud Business Day**  
 - Google Cloud Lab 25 | Lab Google Cloud  
