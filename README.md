@@ -2,8 +2,8 @@
 
 
 🚀 Computer Science @ KMUTT  
--  SCG x Excellent Internship Program  
--  SCG Co-operative Education Program  
+-  SCG x Excellent Internship Program 2025  
+-  SCG Co-operative Education Program 2025  
 - Co-Leader, Google Developer Student Clubs | KMUTT 2025 - 2026  
 - Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 -  Full Stack Developer | AI Engineer
