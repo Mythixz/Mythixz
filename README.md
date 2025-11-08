@@ -2,12 +2,13 @@
 
 
 🚀 Computer Science @ KMUTT  
+📌 Co-Leader, Google Developer Student Clubs | KMUTT 2025 - 2026  
+📌 Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 💻 Full Stack Developer | AI Engineer
 🤖 Exploring AI (LLMs) & DevOps pipelines  
 📌 I write code I design systems. I solve problems  
 📌 SCG x Excellent Internship Program  
 📌 SCG Co-operative Education Program  
-📌 Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 
 🎯 Participated in Google Developer Group (GDG) events, learning and connecting with the community  
 🏆 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
