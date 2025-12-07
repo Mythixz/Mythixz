@@ -32,7 +32,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ---
 
 ## 🔄 Last Activity
-
+- Google DevFest Bangkok 2025  
+- GDG on Campus KMUTT | How to Run Reasoning Models Based on Sustainability  
 - KBTG Meetup: From Chaos to Clarity  
 - Google Developer Student Clubs | Chulalongkorn University 1st Meet  
 - Cloud Ace **Google Cloud Business Day**  
