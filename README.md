@@ -2,13 +2,14 @@
 
 
 🚀 Computer Science @ KMUTT  
--  SCG x Excellent Internship Program 2025  
+-  SCG x Excellent Internship Program 2025 New Contract 6 Months (Present - May 2026)    
+-  SCG x Excellent Internship Program 2025 (June - Dec)    
 -  SCG Co-operative Education Program 2025  
 - Co-Leader, Google Developer Student Clubs | KMUTT 2025 - 2026  
 - Google Developer Student Clubs | Chulalongkorn University Core team 2025 - 2026
 -  Full Stack Developer | AI Engineer
 -  Exploring AI (LLMs) & DevOps pipelines  
--  I write code I design systems. I solve problems  
+-  I write code, I design systems. I solve problems  
 
 🎯 Participated in Google Developer Group (GDG) events, learning and connecting with the community  
 🏆 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
