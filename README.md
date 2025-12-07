@@ -57,7 +57,8 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 🥇 1st Place Winner – GDGoC x AMSA Healthcare Innovation Challenge
 From 255 teams nationwide, our solution stood out for its real-world impact.
 Represented KMUTT alongside KMITL and Chulalongkorn University.  
-💼 JUMP THAILAND Hackathon 2025  | Selected form 295 Team to 50  
+🏆 SONY Smart Factory Hackathon 2025  | Selected form 59 Team to 10    
+🏆 JUMP THAILAND Hackathon 2025  | Selected form 295 Team to 50  
 💼 ฿400,000+ freelance revenue from web development projects (Dec 2024 – June 2025)  
 💼 Launched multiple client platforms using Next.js, Vue, Firebase, and TailwindCSS  
 💼 Delivered production-ready systems: e-commerce, tourism platforms, and internal CMS tools  
