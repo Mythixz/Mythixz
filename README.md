@@ -25,7 +25,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 - Passionate about solving real problems through code  
 - Love building beautiful, functional web apps with modern stacks  
 - Enjoy diving into DevOps, automation, and scalable backend systems  
-- Currently interning at SCG and building tourism & logistics platforms for real businesses
+- Currently interning at SCG AI Internship
 
 ---
 
