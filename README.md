@@ -30,6 +30,7 @@ Represented KMUTT alongside KMITL and Chulalongkorn University.
 ---
 
 ## 🔄 Last Activity
+- SONY Smart Factory Hackathon 2025  
 - Google DevFest Bangkok 2025  
 - GDG on Campus KMUTT | How to Run Reasoning Models Based on Sustainability  
 - KBTG Meetup: From Chaos to Clarity  
